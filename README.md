@@ -4,6 +4,6 @@ All credit goes to <a href="https://www.reddit.com/user/JustTimoCraft">/u/JustTi
 Original Script: https://pastebin.com/HbtEvP8c
 
 
-Slightly modified script to track corona virus infections and deaths.
+Slightly modified original script to track corona virus infections and deaths in the US.
 
   + Substituted Netherlands infections/deaths for US infections/deaths
