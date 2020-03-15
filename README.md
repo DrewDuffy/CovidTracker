@@ -1,5 +1,6 @@
 # CovidTracker
-All credit goes to <a href="https://www.reddit.com/user/JustTimoCraft">/r/JustTimoCraft</a>
+All credit goes to <a href="https://www.reddit.com/user/JustTimoCraft">/u/JustTimoCraft</a>
+
 Original Script: https://pastebin.com/HbtEvP8c
 
 
